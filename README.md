@@ -19,4 +19,5 @@
 15. 《Dive Into Design Patterns》，作者：Alexander Shvets。
 16. 《你不知道的JavaScript》，作者：[Kyle Simpson](https://me.getify.com/)。
 17. 《CSS 权威指南》，作者：[Eric A. Meyer](https://meyerweb.com/eric/)。
-18. 《[Thre Book of Shaders](https://thebookofshaders.com/?lan=ch)》，作者：[Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/)
+18. 《[Thre Book of Shaders](https://thebookofshaders.com/?lan=ch)》，作者：[Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/)。
+19. 《[Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)》，作者：[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)。
