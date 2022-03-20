@@ -1,6 +1,6 @@
-下面是我看过的一些不错的书籍，目前都是技术书籍。
+## 书籍
 
-很遗憾，虽然在工作中写过3年的C#代码，我竟然没有完整的看过一本C#书籍，哈哈。
+看过的一些不错的书籍，目前都是技术书籍。
 
 1. 《C++ Primer (4th Edition)》, 作者：Stanley B. Lippman / Josée Lajoie / Barbara E. Moo。
 2. 《Effective C++ (3th Edition)》, 作者：Scott Meyers。
@@ -21,3 +21,9 @@
 17. 《CSS 权威指南》，作者：[Eric A. Meyer](https://meyerweb.com/eric/)。
 18. 《[Thre Book of Shaders](https://thebookofshaders.com/?lan=ch)》，作者：[Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/)。
 19. 《[Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)》，作者：[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)。
+
+## 文章
+
+不错的文章和博客，记录一下。
+
+1. [Docker guide](https://robertcooper.me/post/docker-guide)
