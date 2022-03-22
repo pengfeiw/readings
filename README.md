@@ -27,3 +27,4 @@
 不错的文章和博客，记录一下。
 
 1. [Docker guide](https://robertcooper.me/post/docker-guide)
+2. [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
