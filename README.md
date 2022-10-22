@@ -1,7 +1,5 @@
 ## 书籍
 
-看过的一些不错的书籍，目前都是技术书籍。
-
 1. 《C++ Primer (4th Edition)》, 作者：Stanley B. Lippman / Josée Lajoie / Barbara E. Moo。
 2. 《Effective C++ (3th Edition)》, 作者：Scott Meyers。
 3. 《More Effective C++ 中文版》, 作者：Scott Meyers。
@@ -21,6 +19,7 @@
 17. 《CSS 权威指南》，作者：[Eric A. Meyer](https://meyerweb.com/eric/)。
 18. 《[Thre Book of Shaders](https://thebookofshaders.com/?lan=ch)》，作者：[Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/)。
 19. 《[Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)》，作者：[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)。
+20. 《[The complete WPF tutorial](https://www.wpf-tutorial.com/)》
 
 ## 文章
 
