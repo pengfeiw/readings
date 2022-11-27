@@ -20,6 +20,7 @@
 18. 《[Thre Book of Shaders](https://thebookofshaders.com/?lan=ch)》，作者：[Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/)。
 19. 《[Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)》，作者：[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)。
 20. 《[The complete WPF tutorial](https://www.wpf-tutorial.com/)》
+21. 《[Effective Shell](https://effective-shell.com/)》
 
 ## 文章
 
