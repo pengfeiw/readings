@@ -21,6 +21,7 @@
 19. 《[Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)》，作者：[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)。
 20. 《[The complete WPF tutorial](https://www.wpf-tutorial.com/)》
 21. 《[Effective Shell](https://effective-shell.com/)》
+22. 《[C 语言教程](https://wangdoc.com/clang/)》，作者：[阮一峰](https://www.ruanyifeng.com/)
 
 ## 文章
 
