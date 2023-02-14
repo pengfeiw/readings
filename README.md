@@ -22,6 +22,7 @@
 20. 《[The complete WPF tutorial](https://www.wpf-tutorial.com/)》
 21. 《[Effective Shell](https://effective-shell.com/)》
 22. 《[C 语言教程](https://wangdoc.com/clang/)》，作者：[阮一峰](https://www.ruanyifeng.com/)
+23. 《算法图解》,作者：Aditya Bhargava
 
 ## 文章
 
