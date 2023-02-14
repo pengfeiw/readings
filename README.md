@@ -19,10 +19,10 @@
 17. 《CSS 权威指南》，作者：[Eric A. Meyer](https://meyerweb.com/eric/)。
 18. 《[Thre Book of Shaders](https://thebookofshaders.com/?lan=ch)》，作者：[Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/)。
 19. 《[Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)》，作者：[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)。
-20. 《[The complete WPF tutorial](https://www.wpf-tutorial.com/)》
-21. 《[Effective Shell](https://effective-shell.com/)》
-22. 《[C 语言教程](https://wangdoc.com/clang/)》，作者：[阮一峰](https://www.ruanyifeng.com/)
-23. 《算法图解》,作者：Aditya Bhargava
+20. 《[The complete WPF tutorial](https://www.wpf-tutorial.com/)》。
+21. 《[Effective Shell](https://effective-shell.com/)》。
+22. 《[C 语言教程](https://wangdoc.com/clang/)》，作者：[阮一峰](https://www.ruanyifeng.com/)。
+23. 《算法图解》,作者：Aditya Bhargava。
 
 ## 文章
 
