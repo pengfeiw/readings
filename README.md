@@ -23,6 +23,8 @@
 21. 《[Effective Shell](https://effective-shell.com/)》。
 22. 《[C 语言教程](https://wangdoc.com/clang/)》，作者：[阮一峰](https://www.ruanyifeng.com/)。
 23. 《算法图解》,作者：Aditya Bhargava。
+24. 《架构整洁之道》，作者：[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)。
+25. 《树莓派开始，玩转 linux》，作者：周昕梓
 
 ## 文章
 
