@@ -26,6 +26,7 @@
 24. 《架构整洁之道》，作者：[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)。
 25. 《树莓派开始，玩转 linux》，作者：周昕梓
 26. 《计算机是怎样跑起来的》，作者：矢泽久雄
+27. 《[3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html)》
 
 ## 文章
 
