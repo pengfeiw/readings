@@ -1,3 +1,9 @@
+## 常逛的博客
+
+1.[云风的博客](https://blog.codingnow.com/)
+2.[阮一峰的博客](https://ruanyifeng.com/blog/)
+3.[CoolShell](https://coolshell.cn/)
+
 ## 书籍
 
 1. 《C++ Primer (4th Edition)》, 作者：Stanley B. Lippman / Josée Lajoie / Barbara E. Moo。
